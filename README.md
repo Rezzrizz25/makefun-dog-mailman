@@ -1,8 +1,8 @@
 # The Dog Reviews the Mailman
 
-[![make.fun](https://make.fun/badge/u-motasimfuad-the-dog-reviews-the-mailman-87608f85.svg)](https://make.fun/bounty/u-motasimfuad-the-dog-reviews-the-mailman-87608f85)
-[![make.fun reward](https://make.fun/badge/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/reward.svg)](https://make.fun/bounty/u-motasimfuad-the-dog-reviews-the-mailman-87608f85)
-[![make.fun owner](https://make.fun/badge/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/owner/Rezzrizz25/makefun-dog-mailman.svg)](https://make.fun/bounty/u-motasimfuad-the-dog-reviews-the-mailman-87608f85)
+[![make.fun · u-motasimfuad-the-dog-reviews-the-mailman-87608f85](https://make.fun/badge/u-motasimfuad-the-dog-reviews-the-mailman-87608f85.svg)](https://make.fun/bounty/u-motasimfuad-the-dog-reviews-the-mailman-87608f85)
+[![rank](https://make.fun/badge/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/Rezzrizz25/makefun-dog-mailman/rank.svg)](https://make.fun/bounty/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/leaderboard)
+[![reward](https://make.fun/badge/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/Rezzrizz25/makefun-dog-mailman/reward.svg)](https://make.fun/bounty/u-motasimfuad-the-dog-reviews-the-mailman-87608f85)
 
 A make.fun entry for **"The Dog Reviews the Mailman"** ($3.10) — one funny
 one-line review a dog gives the mailman, under 200 characters.
